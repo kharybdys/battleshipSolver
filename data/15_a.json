@@ -1,0 +1,185 @@
+{
+  "size": 15,
+  "name": "www.brainbashers.com/showbattleships.asp?date=0721&size=15&puzz=A",
+  "column_pieces": [
+    6,
+    1,
+    0,
+    1,
+    2,
+    5,
+    1,
+    3,
+    4,
+    2,
+    7,
+    1,
+    0,
+    1,
+    1
+  ],
+  "row_pieces": [
+    5,
+    0,
+    3,
+    0,
+    1,
+    2,
+    7,
+    0,
+    2,
+    2,
+    6,
+    1,
+    2,
+    0,
+    4
+  ],
+  "hints": [
+    {
+      "x": 3,
+      "y": 0,
+      "status": "FILLED_SINGLE"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "status": "EMPTY"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "status": "EMPTY"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "status": "EMPTY"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "status": "FILLED"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "status": "FILLED_END_RIGHT"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "status": "FILLED_END_TOP"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "status": "EMPTY"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "status": "EMPTY"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "status": "EMPTY"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "status": "EMPTY"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "status": "FILLED"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "status": "FILLED_SQUARE"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "status": "EMPTY"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "status": "FILLED"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "status": "EMPTY"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "status": "FILLED_SINGLE"
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "status": "EMPTY"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "status": "FILLED"
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "status": "FILLED_END_TOP"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "status": "EMPTY"
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "status": "FILLED"
+    },
+    {
+      "x": 7,
+      "y": 10,
+      "status": "FILLED_END_RIGHT"
+    },
+    {
+      "x": 8,
+      "y": 10,
+      "status": "EMPTY"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "status": "EMPTY"
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "status": "EMPTY"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "status": "FILLED_END_LEFT"
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "status": "EMPTY"
+    },
+    {
+      "x": 14,
+      "y": 14,
+      "status": "FILLED_END_RIGHT"
+    }
+  ]
+}
